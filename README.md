@@ -1,6 +1,4 @@
-# Boston Housing Prediction Analysis - Regression
-
-**Complete Video Tutorial:** https://youtu.be/WXXHPiX5LoQ
+# Boston Housing Price Prediction: A Regression Analysis
 
 # Dataset Information
 
@@ -24,7 +22,7 @@ Boston Housing Dataset Attribute Information (in order):
         - MEDV     Median value of owner-occupied homes in $1000's
 ```
 
-**Download link:** https://www.kaggle.com/puxama/bostoncsv
+
 
 # Libraries
 
